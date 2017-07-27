@@ -9,6 +9,7 @@
 2. [Second step]
 
 **Crash log/Log (if applicable):** [PASTEBIN. Do NOT copy and paste the log into the issue post itself.]
+*How do i to locate a crash log? see* https://gyazo.com/3c616a7dfcbe69033ea210805b093f82
 
 **Screenshots (if applicable):** 
 
