@@ -1,5 +1,5 @@
 ### ---Issue Report---
-**Have you checked Closed Issues (if applicable & PLEASE CHECK BEFORE POSTING):** [Yes or No]
+**Have you checked Open/Closed Issues (if applicable & PLEASE CHECK BEFORE POSTING):** [Yes or No]
 
 ### Description of Issue
 [Description of the issue]
