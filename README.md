@@ -1,7 +1,7 @@
 [![](http://cf.way2muchnoise.eu/full_space-astronomy-2_downloads.svg)](https://minecraft.curseforge.com/projects/space-astronomy-2)
 
 # Space-Astronomy-2-Feedback-
-PACK IS NO LONGER SUPPORTED/UPDATED, SORRY
+# PACK IS NO LONGER SUPPORTED/UPDATED, SORRY
 Issues and suggestions for the Space Astronomy 2 Mod Pack
 
 ##### Known Issues - https://github.com/MJRLegends/Space-Astronomy-2-Feedback-/issues/99
